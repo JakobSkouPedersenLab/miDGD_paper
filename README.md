@@ -1,4 +1,4 @@
-# miDGD: Deep Generative Decoder for Joint mRNA–miRNA Modelling
+# miDGD: Deep Generative Decoder to predict miRNA expression from mRNA alone
 
 miDGD is a deep generative model that jointly models mRNA and miRNA expression across cancer and normal tissue types. Given only mRNA expression data, the trained model can predict the corresponding miRNA expression profile.
 
